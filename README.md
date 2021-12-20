@@ -1,6 +1,6 @@
-## Olá, meu nome é Matheus Kraisfeld! 
-## Sou formado em Ciência da Computação e atualmente curso pós graduação em Inteligência Artificial pela PUC Minas. 
-## Além disso, atuo como desenvolvedor full stack.
+## Olá, meu nome é Matheus Kraisfeld! <br/>
+Sou formado em Ciência da Computação e atualmente curso pós graduação em Inteligência Artificial pela PUC Minas. <br/>
+Além disso, atuo como desenvolvedor full stack. <br/>
 <div align="center">
   <a href="https://github.com/MatheusKraisfeld">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusKraisfeld&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
