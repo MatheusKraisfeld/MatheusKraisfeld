@@ -1,4 +1,4 @@
-## Olá, meu nome é Matheus Kraisfeld! <br/>
+## Olá, meu nome é Matheus! <br/>
 Sou formado em Ciência da Computação e atualmente curso pós graduação em Inteligência Artificial pela PUC Minas. <br/>
 Além disso, atuo como Engenheiro de Dados. <br/>
 <div align="center">
