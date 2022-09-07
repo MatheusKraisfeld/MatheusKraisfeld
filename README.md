@@ -1,6 +1,19 @@
 ## Olá, meu nome é Matheus! <br/>
 Já atuei como desenvolvedor de software e hoje atuo como Engenheiro de Dados. <br/>
 Sou formado em Ciência da Computação e atualmente curso pós graduação em Inteligência Artificial pela PUC Minas. <br/>
+
+<ul>
+  <li>AWS Certifications</li>
+  <ul>
+    <li>AWS Solutions Architect Associate</li>
+    <li>AWS Cloud Practitioner</li>
+  </ul>
+  <li>Airflow Certifications</li>
+  <ul>
+    <li>Astronomer Certification DAG Authoring for Apache Airflow</li>
+    <li>Astronomer Certification for Apache Airflow Fundamentals</li>
+  </ul>
+</ul>
 <div align="center">
   <a href="https://github.com/MatheusKraisfeld">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusKraisfeld&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
