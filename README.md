@@ -1,6 +1,6 @@
 ## Olá, meu nome é Matheus! <br/>
 Já atuei como desenvolvedor de software e hoje atuo como Engenheiro de Dados. <br/>
-Sou formado em Ciência da Computação e atualmente curso pós graduação em Inteligência Artificial pela PUC Minas. <br/>
+Sou graduado em Ciência da Computação e pós graduado em Inteligência Artificial pela PUC Minas. <br/>
 
 <ul>
   <li>AWS Certifications</li>
