@@ -5,6 +5,7 @@ Sou formado em Ciência da Computação e atualmente curso pós graduação em I
 <ul>
   <li>AWS Certifications</li>
   <ul>
+    <li>AWS Data Analytics Specialty</li>
     <li>AWS Solutions Architect Associate</li>
     <li>AWS Cloud Practitioner</li>
   </ul>
