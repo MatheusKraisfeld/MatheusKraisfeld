@@ -7,6 +7,7 @@ Sou graduado em Ciência da Computação e pós graduado em Inteligência Artifi
   <ul>
     <li>AWS Solutions Architect Professional</li>
     <li>AWS Data Analytics Specialty</li>
+    <li>AWS SysOps Administrator - Associate</li>
     <li>AWS Data Engineer Associate</li>
     <li>AWS Developer Associate</li>
     <li>AWS Solutions Architect Associate</li>
