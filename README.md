@@ -12,6 +12,7 @@ Sou graduado em Ciência da Computação e pós graduado em Inteligência Artifi
     <li>AWS Developer Associate</li>
     <li>AWS Solutions Architect Associate</li>
     <li>AWS Cloud Practitioner</li>
+    <li>AWS AI Practitioner</li>
   </ul>
   <li>Airflow Certifications</li>
   <ul>
